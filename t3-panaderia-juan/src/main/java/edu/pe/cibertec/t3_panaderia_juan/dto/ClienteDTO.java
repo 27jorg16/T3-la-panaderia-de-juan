@@ -1,6 +1,5 @@
 package edu.pe.cibertec.t3_panaderia_juan.dto;
 
-import edu.pe.cibertec.t3_panaderia_juan.model.Cliente;
 import lombok.Data;
 
 @Data
